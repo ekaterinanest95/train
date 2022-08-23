@@ -1,0 +1,15 @@
+D:\Documents\training\train\Ex01\bin\Debug\net6.0\Ex01.exe
+D:\Documents\training\train\Ex01\bin\Debug\net6.0\Ex01.deps.json
+D:\Documents\training\train\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+D:\Documents\training\train\Ex01\bin\Debug\net6.0\Ex01.dll
+D:\Documents\training\train\Ex01\bin\Debug\net6.0\Ex01.pdb
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.dll
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.pdb
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+D:\Documents\training\train\Ex01\obj\Debug\net6.0\ref\Ex01.dll
